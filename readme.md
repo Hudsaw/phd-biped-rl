@@ -14,7 +14,7 @@ This project is being developped with python 3.12.7.
 
 ```
 git clone https://github.com/jonattanc/phd-biped-rl.git
-cd phd_biped_rl
+cd phd-biped-rl
 ```
 
 ### Create a virtual environment
